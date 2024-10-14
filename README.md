@@ -15,9 +15,7 @@
     - Não Limite sua diversão no Mundo Virtual
     ''Who Am I: Kein System ist siche - MRX
 </p>
-
-
-#### Demo ## 
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EntonyCamargo&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EntonyCamargo&hide_progress=true)
 
